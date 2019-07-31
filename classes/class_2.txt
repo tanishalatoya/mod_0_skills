@@ -1,0 +1,17 @@
+Restaurant
+
+Class: Employee
+
+Attributes
+
+    host_on_duty (string)
+    days_available (array)
+    wage (float)
+    hours_on_duty (integer)
+
+  Methods
+
+    chg_host_on_duty (replaces the string in host_on_duty with a new string)
+    sick_day_used (removes an item in the days_available array)
+    promote_new_wage (increases the float in current wage by 3 percent)
+    two_hours_overtime (increases the hour_on_duty integer by 2)
