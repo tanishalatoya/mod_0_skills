@@ -1,0 +1,19 @@
+Class: Menu
+
+Instance: Yard House
+
+Attributes
+
+    entree_options = ["chicken kale caesar", "mac and cheese", "rib eye", "ginger crusted salmon"]
+    vegan_option = false
+    num_of_beverages = 120
+    price_of_entree = 29.45
+
+  Methods
+    //remove "ginger crusted salmon" from entree_option
+    remove_entree = ["chicken kale caesar, "mac and cheese", "rib eye"]
+    //Add "vegan cobb salad" as an entree
+    add_veg_option = true
+    //Assuming the restaurant serves both alcoholic and non-alcoholic beverages
+    num_non_alcoholic_beverages = 12
+    disc_15_percent = 25.03
