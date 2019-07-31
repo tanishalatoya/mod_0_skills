@@ -1,0 +1,19 @@
+Restaurant
+
+Class: Employee
+
+Attributes
+
+    host_on_duty = "Eric"
+    days_available = ["Sunday", "Tuesday", "Wednesday", "Friday"]
+    wage (float) = 12.00
+    hours_on_duty = 8
+
+  Methods
+
+    //Eric's shift ends. Melissa replaces him.
+    chg_host_on_duty = "Melissa"
+    //Eric calls in sick on Friday.
+    sick_day_used = ["Sunday", "Tuesday", "Wednesday"]
+    promote_new_wage = 12.36
+    two_hours_overtime = 10
