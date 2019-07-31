@@ -1,0 +1,56 @@
+How to Become a Turing Student (Top Down Design)
+
+1. Complete an application for the Turing School
+  1.1 Turn on computer
+    1.1.2 If it is a laptop, open it, otherwise stand/sit down in front of it
+    1.1.3 Locate power button
+    1.1.4 Using a finger, press the power button
+    1.1.5 Wait for the computer screen to turn on
+  1.1.2 Click on the icon for your web browser of choice
+  1.1.3 Navigate to the Turing School webpage
+    1.1.3.1 Click on the search box
+    1.1.3.2 Type in "turing.io"
+  1.1.4 Navigate to program of choice (Backend or Frontend)
+  1.1.5 Click on "Apply Now" for the program you chose
+  1.1.6 Watch the "How to Apply to Turing School"
+  1.1.7 Log into the application using Facebook or GitHub
+    1.1.7.1 Click on Facebook/Github application
+    1.1.7.2 Enter your username
+    1.1.7.3 Enter your password for that account
+    1.1.7.4 Click "enter"
+  1.1.8 Fill out personal information fields
+  1.1.9 Complete short answer fields
+    1.1.9.1 Read each question
+    1.1.9.2 Type your responses to the respective question in the applicable field
+  1.1.10 Upload resume
+    1.1.10.1 Click on "upload"
+    1.1.10.2 Choose the file housing your resume
+    1.1.10.3 Click on "select"
+  1.1.11 Click "submit"
+  1.1.12 Begin 8-question quiz
+    1.1.12.1 Read through each questions
+    1.1.12.2 Perform calculations as needed on scratch paper
+    1.1.12.3 Select the correct answer
+
+//Assuming you've passed the quiz, move onto step 2.
+
+2. Complete an interview with a Turing staff member
+2.1. Lookout for an e-mail stating that you've been invited to interview with a Turing staff member
+ 2.1.1 Navigate to your personal e-mail account
+ 2.1.2 Select e-mail from "Turing School"
+ 2.1.3 Read e-mail
+ 2.1.4 Click on link to schedule a date/time for your interview
+ 2.1.5 Wait for e-mail confirming your date/time requested for an interview
+2.2 On date/time scheduled for interview, open e-mail received in step 11 and click on the Google Hangout link provided in the e-mail
+2.3 Complete pair programming with Turing staff member
+2.4 Answer interview questions
+2.5 Ask the Turing staff any questions you have
+
+//Assuming you've passed the interview round, move onto step 3.
+
+3. Enroll in the Turing School
+3.1 Read e-mail stating that you've been accepted into the the Turing School
+3.2 Click on links provided for registration
+3.3 Pay deposit
+
+//I shortened steps 2 and 3 because I was already over time for completing this section of the assessment.
