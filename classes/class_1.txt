@@ -1,0 +1,18 @@
+Restaurant
+
+Class: Menu
+
+Attributes
+
+    entree_options (array)
+    vegan_option (boolean)
+    num_of_beverages (integer)
+    price_of_entree (float)
+
+  Methods
+
+    remove_entree (decreases the number of items in the entree_options array)
+    add_veg_option (toggles the vegan_option boolean to display "true")
+    //Assuming the restaurant serves both alcoholic and non-alcoholic beverages
+    num_non_alcoholic_beverages (reduces the num_of_beverages integer by the amount of alcoholic beverages present)
+    disc_15_percent (reduces the price_of_entree float by 15 percent)
